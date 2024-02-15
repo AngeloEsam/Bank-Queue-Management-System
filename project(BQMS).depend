@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1707898859 source:c:\users\20109\desktop\project(bqms)\main.cpp
+	<iostream>
+	<random>
+	<iostream>
+	<iomanip>
+	<fstream>
+	<cctype>
+	<iostream>
+	<iomanip>
+	<random>
+	<fstream>
+	<cctype>
+	<iostream>
+	<iomanip>
+	<random>
+	<fstream>
+	<cctype>
+	<cassert>
+	<queue>
+	<vector>
+	<iostream>
+	<iomanip>
+	<random>
+	<fstream>
+	<cctype>
+	<cassert>
+	<queue>
+	<vector>
+
