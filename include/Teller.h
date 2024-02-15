@@ -68,24 +68,24 @@ public:
     }
 
     // Function to get current customer number
-    int getCurrentCustomerNumber() const
+    int getCurrentCustomerNumber()
     {
         return currentCustomer.getCustomerNumber();
     }
 
     // Function to get current customer arrival time
-    int getCurrentCustomerArrivalTime() const
+    int getCurrentCustomerArrivalTime()
     {
         return currentCustomer.getArrivalTime();
     }
     // Function to get current customer waiting time
-    int getCurrentCustomerWaitingTime() const
+    int getCurrentCustomerWaitingTime()
     {
         return currentCustomer.getWaitingTime();
     }
 
     // Function to get current customer transaction time
-    int getCurrentCustomerTransactionTime() const
+    int getCurrentCustomerTransactionTime()
     {
         return currentCustomer.getTransactionTime();
     }
