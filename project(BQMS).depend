@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1707898859 source:c:\users\20109\desktop\project(bqms)\main.cpp
+1708066915 source:c:\users\20109\desktop\project(bqms)\main.cpp
 	<iostream>
 	<random>
 	<iostream>
@@ -27,4 +27,33 @@
 	<cassert>
 	<queue>
 	<vector>
+	<iostream>
+	<iomanip>
+	<random>
+	<fstream>
+	<cctype>
+	<cassert>
+	<queue>
+	<vector>
+	<string>
+	"Customer.h"
+	"Teller.h"
+	"ListOfTellers.h"
+	"CustomersQueue.h"
+	"MyQueue.h"
+	"WaitingCustomerQueue.h"
+
+1707998557 c:\users\20109\desktop\project(bqms)\include\customer.h
+
+1708022610 c:\users\20109\desktop\project(bqms)\include\teller.h
+	<string>
+
+1708066039 c:\users\20109\desktop\project(bqms)\include\listoftellers.h
+
+1708066469 c:\users\20109\desktop\project(bqms)\include\customersqueue.h
+
+1708067037 c:\users\20109\desktop\project(bqms)\include\myqueue.h
+
+1708066982 c:\users\20109\desktop\project(bqms)\include\waitingcustomerqueue.h
+	"MyQueue.h"
 

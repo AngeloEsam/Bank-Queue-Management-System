@@ -16,20 +16,20 @@ public:
         transactionTime = 0;
     }
 
-    // Function to check if the server is free
+    // Function to check if the Teller is free
     bool isFree() const
     {
         return status == "free";
     }
 
-    // Function to set the server status to busy
+    // Function to set the teller status to busy
     void setBusy()
     {
         status = "busy";
     }
 
 
-    // Function to set the server status to free
+    // Function to set the teller status to free
     void setFree()
     {
         status = "free";

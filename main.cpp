@@ -348,6 +348,9 @@ int main() {
 #include "Customer.h"
 #include "Teller.h"
 #include "ListOfTellers.h"
+#include"CustomersQueue.h"
+#include "MyQueue.h"
+#include "WaitingCustomerQueue.h"
 
 
 using namespace std;
